@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## About Me
-
 [![GitHub](https://img.shields.io/badge/GitHub-%40imwiss-239a3b.svg)](https://github.com/imwiss)
 [![Twitter](https://img.shields.io/badge/Twitter-%40imwiss-58a1f2.svg)](https://twitter.com/imwiss)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/imwiss)
