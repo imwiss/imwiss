@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/imwiss)
 [![Website](https://img.shields.io/badge/website-designingforscale.com-blue)](https://designingforscale.com)
 
-Hi 👋 ! My name is Wissam and I'm a Senior Engineering Manager at GitHub, leading a team that is responsible for our global scale public APIs ([REST](https://docs.github.com/en/rest) & [GraphQL](https://docs.github.com/en/graphql)). I've had the privilege of working remotely full-time for 5 years now, including at two pioneers of the remote industry: GitHub and InVision. This has helped shape my thoughts and philosophy on scaling engineering organizations and managing remote teams. I focus on fostering strong engineering cultures in distributed organizations to increase impact.
+Hi 👋 ! My name is Wissam and I'm a Senior Engineering Manager at GitHub, leading a team that is responsible for our global scale public APIs ([REST](https://docs.github.com/en/rest) & [GraphQL](https://docs.github.com/en/graphql)). I've had the privilege of working remotely full-time for 5 years now, including at two pioneers of the remote industry: GitHub and InVision. This has helped shape my thoughts and philosophy on scaling engineering organizations and managing remote teams. I focus on increasing impact in distributed organizations by fostering strong engineering cultures.
 
 More to come here shortly... 🕐
 <!--
